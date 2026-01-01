@@ -18,7 +18,9 @@ This analysis examines 2,535 fatal police encounters across the United States du
 
 ## 1. Temporal Patterns: Understanding Volume Trends
 
-**Chart:** `charts/01_temporal_trends.png` | `charts/15_quarterly_trends.png`
+![Monthly Trend Analysis](charts/01_temporal_trends.png)
+
+![Quarterly Trends](charts/15_quarterly_trends.png)
 
 ### What the Data Shows
 Fatal police encounters occur consistently throughout the year, with monthly volumes averaging over 200 incidents. The quarterly analysis reveals no significant seasonal variation, indicating that resource demands remain constant year-round.
@@ -37,7 +39,9 @@ Fatal police encounters occur consistently throughout the year, with monthly vol
 
 ## 2. Geographic Concentration: Where Resources Are Needed Most
 
-**Chart:** `charts/02_geographic_distribution.png` | `charts/13_top_cities.png`
+![Geographic Distribution by State](charts/02_geographic_distribution.png)
+
+![Top Cities by Incident Count](charts/13_top_cities.png)
 
 ### What the Data Shows
 California, Texas, and Florida account for a disproportionate share of fatal encounters, with California alone representing over 15% of all incidents. Among cities, Los Angeles, Houston, and Phoenix lead in incident frequency, with Los Angeles experiencing 3x more incidents than the average major city.
@@ -58,7 +62,11 @@ California, Texas, and Florida account for a disproportionate share of fatal enc
 
 ## 3. Demographic Disparities: Understanding Who Is Affected
 
-**Charts:** `charts/03_race_distribution.png` | `charts/04_age_distribution.png` | `charts/10_gender_distribution.png`
+![Race Distribution](charts/03_race_distribution.png)
+
+![Age Distribution](charts/04_age_distribution.png)
+
+![Gender Distribution](charts/10_gender_distribution.png)
 
 ### What the Data Shows
 **Race:** While representing different portions of the population, White individuals account for 50.1% of incidents, Black individuals 26.4%, and Hispanic individuals 17.4% of fatal encounters.
@@ -83,7 +91,9 @@ California, Texas, and Florida account for a disproportionate share of fatal enc
 
 ## 4. The Mental Health Crisis: A Critical Intervention Point
 
-**Charts:** `charts/06_mental_illness_indicator.png` | `charts/12_race_mental_illness.png`
+![Mental Illness Indicator](charts/06_mental_illness_indicator.png)
+
+![Mental Health by Demographic](charts/12_race_mental_illness.png)
 
 ### What the Data Shows
 Nearly 25% of all fatal encounters involve individuals showing signs of mental illness. This represents approximately 1 in 4 incidents where mental health intervention could potentially have altered the outcome. The prevalence of mental health factors remains consistent across demographic groups.
@@ -105,7 +115,9 @@ Nearly 25% of all fatal encounters involve individuals showing signs of mental i
 
 ## 5. Weapon Presence: Threat Assessment and Response
 
-**Charts:** `charts/05_armed_status.png` | `charts/14_armed_status_by_race.png`
+![Armed Status Analysis](charts/05_armed_status.png)
+
+![Armed Status by Race](charts/14_armed_status_by_race.png)
 
 ### What the Data Shows
 The majority of fatal encounters (74.8%) involve armed individuals, with firearms being the most common weapon type (63.1% of all incidents). However, a significant minority (6.5%) involve unarmed individuals. Toy weapons, knives, and vehicles account for additional incident categories.
@@ -127,7 +139,7 @@ The majority of fatal encounters (74.8%) involve armed individuals, with firearm
 
 ## 6. Threat Level Assessment: Evaluating Encounter Dynamics
 
-**Chart:** `charts/07_threat_level.png`
+![Threat Level Assessment](charts/07_threat_level.png)
 
 ### What the Data Shows
 Attack scenarios represent 84.5% of fatal encounters, followed by "other" circumstances at 13.2%. Only 2.3% of incidents are classified as "undetermined" threat level, indicating clear threat assessment in most situations.
@@ -148,7 +160,7 @@ Attack scenarios represent 84.5% of fatal encounters, followed by "other" circum
 
 ## 7. Flight Response: Subject Behavior Patterns
 
-**Chart:** `charts/08_fleeing_status.png`
+![Fleeing Status Analysis](charts/08_fleeing_status.png)
 
 ### What the Data Shows
 The majority of individuals (81.3%) were not fleeing at the time of the fatal encounter. Only 12.4% were fleeing on foot and 6.3% by vehicle, indicating that most fatal encounters occur during stationary confrontations.
@@ -169,7 +181,7 @@ The majority of individuals (81.3%) were not fleeing at the time of the fatal en
 
 ## 8. Body Camera Deployment: The Transparency Gap
 
-**Chart:** `charts/09_body_camera_presence.png`
+![Body Camera Deployment Rates](charts/09_body_camera_presence.png)
 
 ### What the Data Shows
 Body cameras were present in only 10.9% of fatal encounters, meaning nearly 90% of these critical incidents occurred without video documentation. This represents a massive transparency and accountability gap.
@@ -194,7 +206,7 @@ Body cameras were present in only 10.9% of fatal encounters, meaning nearly 90% 
 
 ## 9. Method of Force: Understanding How Encounters Conclude
 
-**Chart:** `charts/11_manner_of_death.png`
+![Manner of Death Analysis](charts/11_manner_of_death.png)
 
 ### What the Data Shows
 Shooting accounts for the vast majority of fatal force incidents (97.7%), with a small percentage involving combined methods such as "shot and Tasered" (2.3%). This indicates firearms are the primary method in fatal encounters.
